@@ -1,0 +1,4 @@
+must initialize the local repo folder:
+git init
+git add .
+git commit -m "just dev."
